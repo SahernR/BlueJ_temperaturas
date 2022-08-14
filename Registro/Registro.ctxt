@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Registro
+comment0.text=\n\ Write\ a\ description\ of\ class\ Registro\ here.\n\ \ Crear\ un\ arreglo\ que\ pueda\ contener\ la\ temperatura\ a\ lo\ largo\n\ \ \ \ de\ los\ 7\ d\u00EDas\ de\ una\ semana\n\ @author\ (Sebastian\ Ahern)\n\ @version\ (1.0)\n
+comment1.params=
+comment1.target=Registro()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Registro\n
+comment2.params=grado
+comment2.target=void\ insertTemperaturas(double)
+numComments=3
